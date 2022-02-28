@@ -60,3 +60,23 @@ python manage.py runserver
 pip install djangorestframework
 
 python manage.py runserver
+
+# Root Path
+
+User Registration for GST TAX: http://127.0.0.1:8000/api/register/
+
+User Login for GST TAX(If you already registered): http://127.0.0.1:8000/api/login/
+
+Registerd User Logout: http://127.0.0.1:8000/api/logout/
+
+Admin Login for GST TAX(If you already create superuser): http://127.0.0.1:8000/api/user/
+Note: Use Superuser credentials
+
+Show User Invoice of User for GST TAX: http://127.0.0.1:8000/api/list/
+
+Update Profile for Current User with the help of id: http://127.0.0.1:8000/api/updateprofile/id/
+
+Delete Specific User Profile: http://127.0.0.1:8000/api/delete/id
+
+Show SuperUser Invoice to get info about all admins who manage user invoices: http://127.0.0.1:8000/api/detail/
+
