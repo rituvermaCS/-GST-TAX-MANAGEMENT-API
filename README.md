@@ -1,4 +1,4 @@
-# GST_TAX_MANAGEMENT_API_SYSTEM
+# GST TAX MANAGEMENT API SYSTEM
 
 # Main points for creating a REST API in Django REST framework.
 
