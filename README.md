@@ -60,23 +60,3 @@ python manage.py runserver
 pip install djangorestframework
 
 python manage.py runserver
-
-# Root Path
-
-User Register: http://127.0.0.1:8000/api/register/
-
-Registerd User Login: http://127.0.0.1:8000/api/login/
-
-Registerd User Logout: http://127.0.0.1:8000/api/logout/
-
-Logout all User: http://127.0.0.1:8000/api/logoutall/
-
-Show current user/users: http://127.0.0.1:8000/api/user/
-
-Update Profile for Current User: http://127.0.0.1:8000/api/updateprofile/id/
-
-Delete Specific User Profile: http://127.0.0.1:8000/api/delete/id
-
-Show User List: http://127.0.0.1:8000/api/list/
-
-Request User: http://127.0.0.1:8000/api/detail/
