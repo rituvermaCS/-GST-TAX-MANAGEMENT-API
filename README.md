@@ -78,5 +78,5 @@ Update Profile for Current User with the help of id: http://127.0.0.1:8000/api/u
 
 Delete Specific User Profile: http://127.0.0.1:8000/api/delete/id
 
-Show SuperUser Invoice to get info about all admins who manage user invoices: http://127.0.0.1:8000/api/detail/
+/Show SuperUser Invoice to get info about all admins who manage user invoices: http://127.0.0.1:8000/api/detail/
 
